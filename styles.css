@@ -39,3 +39,7 @@ h2 {
 .boldClass {
       font-weight: bold;
 }
+
+div #myDiv {
+  transform: rotate(-90deg);
+  }
